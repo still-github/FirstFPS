@@ -1,2 +1,2 @@
 # FirstFPS
-first real unity project
+Repo for my first attempt at an FPS 
